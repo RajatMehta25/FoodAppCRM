@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/adminPanel/static/css/main.7eac8416.chunk.css",
+    "main.js": "/adminPanel/static/js/main.8f5d3233.chunk.js",
+    "main.js.map": "/adminPanel/static/js/main.8f5d3233.chunk.js.map",
+    "runtime-main.js": "/adminPanel/static/js/runtime-main.c90f8668.js",
+    "runtime-main.js.map": "/adminPanel/static/js/runtime-main.c90f8668.js.map",
+    "static/css/2.12681212.chunk.css": "/adminPanel/static/css/2.12681212.chunk.css",
+    "static/js/2.adb813d4.chunk.js": "/adminPanel/static/js/2.adb813d4.chunk.js",
+    "static/js/2.adb813d4.chunk.js.map": "/adminPanel/static/js/2.adb813d4.chunk.js.map",
+    "index.html": "/adminPanel/index.html",
+    "static/css/2.12681212.chunk.css.map": "/adminPanel/static/css/2.12681212.chunk.css.map",
+    "static/css/main.7eac8416.chunk.css.map": "/adminPanel/static/css/main.7eac8416.chunk.css.map",
+    "static/js/2.adb813d4.chunk.js.LICENSE.txt": "/adminPanel/static/js/2.adb813d4.chunk.js.LICENSE.txt",
+    "static/media/haydiSupermarket.77ec0d0a.png": "/adminPanel/static/media/haydiSupermarket.77ec0d0a.png",
+    "static/media/homeBack.png": "/adminPanel/static/media/homeBack.dea0c195.png",
+    "static/media/homeBg.919c2da7.png": "/adminPanel/static/media/homeBg.919c2da7.png",
+    "static/media/logo.6cd4d503.svg": "/adminPanel/static/media/logo.6cd4d503.svg",
+    "static/media/mainImage.927ef33d.jpg": "/adminPanel/static/media/mainImage.927ef33d.jpg",
+    "static/media/property-image.fa33f9fe.png": "/adminPanel/static/media/property-image.fa33f9fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c90f8668.js",
+    "static/css/2.12681212.chunk.css",
+    "static/js/2.adb813d4.chunk.js",
+    "static/css/main.7eac8416.chunk.css",
+    "static/js/main.8f5d3233.chunk.js"
+  ]
+}
